@@ -6,5 +6,4 @@ The device does 3 tasks in general
 2.  It detects the direction of arrival of sound i.e. where the source of sound is located.
 3.  Whenever an alert sound is detected, the device gives the user tactile feedback (using the onboard vibrotactile motors) so he knows the direction from where this sound is coming, allowing him to better communicate with the surroundings.
 
-
-
+Patent details: https://drive.google.com/drive/folders/1dQ9EPjZAO5QuJTAueoiaQpbiqvcjVSLl?usp=sharing
